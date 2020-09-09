@@ -1,2 +1,0 @@
-<?php
-echo "Proj2";
